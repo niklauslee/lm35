@@ -1,0 +1,6 @@
+{
+  "name": "lm35",
+  "version": "1.0.0",
+  "description": "Kaluma library for LM35 temperature sensor",
+  "main": "index.js"
+}
